@@ -1,7 +1,8 @@
 public class Spanish extends Human{
 
     public Spanish (String name){
-        super ();
+        super(name);
+        talk ();
 
     }
 

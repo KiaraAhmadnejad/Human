@@ -1,6 +1,7 @@
 public class Swedish extends Human{
     public Swedish(String name){
-        super();
+        super(name);
+        talk();
     }
 
     @Override
